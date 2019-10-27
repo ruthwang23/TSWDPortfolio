@@ -1,5 +1,5 @@
 ## Telling Stories with Data Portfolio
-Welcome to my portfolio! [8-)](/octocatHaiku.md)
+Welcome to my portfolio! [:blush:](/octocatHaiku.md)
 
 ### About Me
 <img src="/MVIMG_20191020_181937.png" width="250" height="337"> 
