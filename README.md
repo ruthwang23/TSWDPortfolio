@@ -25,3 +25,6 @@ Additionally, it’s been a while since I’ve had any training in color theory 
 
 ### Portfolio
 Links to my portfolio contents (our classwork) will be added to this section as we go.
+A preview of what I might share:
+
+<iframe title="Left-Click" aria-label="Bar Chart" id="datawrapper-chart-wRt0Q" src="//datawrapper.dwcdn.net/wRt0Q/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="351"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
