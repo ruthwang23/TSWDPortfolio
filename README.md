@@ -1,11 +1,13 @@
 ## Telling Stories with Data Portfolio
 Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
 
-### About Me
+### Ruth Wang  
 <!-- <img src="/MVIMG_20191020_181937.png" width="250" height="337"> -->
 ![Photo of Ruth](/MVIMG_20191020_181937.png)
 ###### (Apologies for the super large image. Will figure out how to resize soon! If anyone's curious, the juicy buns are from [Dumpling Cafe](https://www.dumplingcafe.com/) in Downtown Boston.)
-#### Ruth Wang  
+
+
+### About Me
 Hello, I'm a first year PPM Data Analytics student at Heinz. Looking forward to learning alongside and from you all!
 
 Before Heinz, I spent about 1.5 years traveling and enjoying quality time with my family. We went on a National Parks road trip, hitting Carlsbad Caverns NP, Rocky Mountain NP, Flaming Gorge National Reservoir, Grand Teton NP (my personal favorite), and Yellowstone NP. Along the way, we passed through many National Forests and State Parks as well. If you haven't gotten the chance to yet, get out there and explore these amazing places!
