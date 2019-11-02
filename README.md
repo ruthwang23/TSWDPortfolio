@@ -24,7 +24,7 @@ Additionally, it’s been a while since I’ve had any training in color theory 
 
 
 ### Portfolio
-#### [OECD Data Visualization](/OECDvisualization.md)
+#### [OECD Data Visualization](/OECDviz.md)
 
 Links to my portfolio contents (our classwork) will be added to this section as we go.
 A preview of what I might share:
