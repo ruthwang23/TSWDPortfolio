@@ -1,7 +1,9 @@
 # Critique by Redesign
 
 ### The visualization in question
-For this assignment, I decided to critique Figure 1 from ["Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France"](https://www.hbs.edu/faculty/Publication%20Files/aer.20160524.compressed_421e1937-b6c3-46de-ab46-03c207264cf6.pdf)
+For this assignment, I decided to critique Figure 1 from  
+["Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France"](https://www.hbs.edu/faculty/Publication%20Files/aer.20160524.compressed_421e1937-b6c3-46de-ab46-03c207264cf6.pdf)
+
 ![Figure 1. Results of the 2012 and 2014 Elections](/figure1.png)
 
 a short paragraph on why you selected this particular data visualization
