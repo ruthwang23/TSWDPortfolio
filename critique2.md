@@ -2,7 +2,7 @@
 
 ### The visualization in question
 For this assignment, I decided to critique Figure 1 from  
-["Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France"](https://www.hbs.edu/faculty/Publication%20Files/aer.20160524.compressed_421e1937-b6c3-46de-ab46-03c207264cf6.pdf)
+["Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France"](https://www.hbs.edu/faculty/Publication%20Files/aer.20160524.compressed_421e1937-b6c3-46de-ab46-03c207264cf6.pdf) by Vincent Pons.
 
 ![Figure 1. Results of the 2012 and 2014 Elections](/figure1.png)
 
@@ -26,9 +26,12 @@ Both of the "readers" I discussed this wireframe with had a struggle understandi
 
 
 #### Redesigning
-I fell ill with a high fever and was subsequently unable to complete my redesign. However, the following is a verbal description of my final redesign, as well as key changes I would have made to my wireframe based on user feedback:
+I fell ill with a high fever and was subsequently unable to complete my redesign. However, the following is a verbal description of my final redesign, with key changes I would have made to my wireframe based on user feedback **_bolded_**:
 
-_Verbal_
-* Changes
-what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently
-style tile?
+_The final visualization is to be read top to bottom (**rotate wireframe** contents 90 degrees clockwise), with a **descriptive title** - "French Elections Discussed in this Paper." I had considered adding a subtitle describing the results of the experiment, but decided against it as this figure comes early on in the paper and is used to set the scene for the rest of the report. I decided to rotate the wireframe design to tell a more clear story since the paper discusses impacts of door-to-door canvassing on voter turnout and, subsequently, vote shares in the election. It is easier to compare the (average) voter turnout values reading horizontally left to right. These numbers would be presented in large, bold font with a small, gray text label on the left "Voter Turnout." Effectively, I want to redesign this figure as an infographic table, with the various elections as column headings._
+
+_The second "row" would be the first round voter shares, depicted as horizontal stacked bars with **percentage labels** for clarity about proportions. The color scheme I would use would be similar to [this](http://colorbrewer2.org/?type=diverging&scheme=PuOr&n=7) scale from purple to orange-brown, as represented in my wireframe._
+
+_The third and final row of the table is the results. I chose to maintain this order of rows for logical reading when using the standard top-down left-right of the U.S., where this paper was published. The results would generally be portrayed as they were in my wireframe. Originally, I had wanted them to all follow the same format. However, the sorts of data represented here are quite different, so I decided it was okay (given **no particular feedback** from my users) to present the results as such. The presidential election results would be displayed as a horizontal bar chart for more clear comparison. The parliamentary election results would still be displayed as a semi-pie (similar in shape to the room where the French Parliament meets), and the European elections results would be displayed as a unit chart to break any expectations of parallel structure between the results. Additionally, since those elections are for only 74 seats, it is easier to see the results in the unit visualization than for the 577 seats in Parliament._
+
+_Overall, I decided not to reduce too much information from this visualization as I believe it is essential to building the reader's understanding of the discussion that follows it. However, I think my choices for redesign would make the visualization more readable and the data more clear for interpretation._
