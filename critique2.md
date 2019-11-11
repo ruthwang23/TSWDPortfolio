@@ -15,7 +15,7 @@ a few insights you gained from the critique method, and what it led you to think
 
 
 #### Wireframing
-screenshots of your wireframes
+![Redesign Wireframe](/IMG_20191110_220249.jpg)
 any insights you gleaned from your user feedback.  If it led you to change anything about your data visualization's design, mention what that was.  
 
 
