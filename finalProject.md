@@ -1,5 +1,8 @@
 # Part I
 ## Outline
+_One sentence summary: Pittsburgh residents are at high risk for lead exposure through soil & paint, some more than others.  
+Key takeaway: As a part of the Pittsburgh community, I want the Allegheny County Health Department (and other relevant agencies) to take steps to address these issues quickly and effectively for the sake of public health and safety._
+
 * A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 * A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories. 
 
