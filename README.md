@@ -26,6 +26,7 @@ Additionally, it’s been a while since I’ve had any training in color theory 
 ### Portfolio
 #### [OECD Data Visualization](/OECDviz.md)
 #### [Critique by Redesign](/critique2.md)
+#### [Final Project Proposal](/finalProject.md)
 
 Links to my portfolio contents (our classwork) will be added to this section as we go.
 A preview of what I might share:
