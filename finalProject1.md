@@ -23,8 +23,12 @@ The key takeaway I have in mind right now is this:
   </i> </b>  </p>
 
 ## Initial sketches
-* sketches that outline your initial thoughts for your final project
-* clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.). 
+![Sketch 1](/1_sketch.png)
+![Sketch 2](/2_sketch.png)
+![Sketch 3](/3_sketch.png)
+![Sketch 4](/4_sketch.png)
+![Sketch 5](/5_sketch.png)
+![Sketch 6](/6_sketch.png)
 
 ## The data
 The data I will use for my project come from the [Allegheny County Lead Data website](https://www.alleghenycounty.us/Health-Department/Programs/Special-Initiatives/Lead/Lead-in-Allegheny-County.aspx) as well as the [2017 American Community Survey 5-Year Estimates](https://data.census.gov/cedsci/table?q=american%20community%20survey&g=0500000US42003&table=S0101&tid=ACSST5Y2017.S0101&lastDisplayedRow=41&hidePreview=false).
