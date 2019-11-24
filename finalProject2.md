@@ -28,8 +28,10 @@ __Easy-to-understand visualizations__ How long does it take readers to understan
 ### Interviews
 __Interview 1__
 * Summary of findings
+
 __Interview 2__
 * Summary of findings
+
 __Interview 3__
 * Summary of findings
 
