@@ -27,9 +27,14 @@ __Easy-to-understand visualizations__ How long does it take readers to understan
 * More generally, is there anything you wish you had seen or hope I change?
 * Thank you so much for your feedback and insights - they are very helpful for me to see how I can improve this project. Thank you again!
 
-### Interviews
+### Interview findings
 __Interview 1__
-* Summary of findings
+_Overall, liked the story - thought it had good flow that made sense. Got the main message that Pittsburgh children are at high risk for lead exposure through soil. Didn't seem to really call to action/resources to access - simply came away from the story feeling concerned._
+
+Suggested edits:
+* Make wording on visuals more clear, e.g. OF Pittsburgh homes WERE built before 1978
+* Use images of children for more personal feel (pathos appeal)
+* Be clearer about the consequences if we don't address the issue now - How will this impact the children's future? (will be addressed in intro text about why lead is bad)
 
 __Interview 2__
 * Summary of findings
