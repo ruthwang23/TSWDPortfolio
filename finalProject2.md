@@ -14,8 +14,7 @@ __Clear call to action__ Do readers walk away with a solid idea of what they sho
 __Easy-to-understand visualizations__ How long does it take readers to understand what is portrayed? What changes would help reduce cognitive burden on readers?
 
 _For the mean time, as I don't really know people in Pittsburgh beyond campus, I interviewed fellow graduate students.  
-After our in-class feedback on Monday and some further revisions, I will make a post to my neighborhood's NextDoor page to ask for feedback.  
-My neighbors seem generous enough to spend some time to respond and offer their thoughts._
+After our in-class feedback on Monday and some further revisions, I will make a post to my neighborhood's NextDoor page to ask for feedback. My neighbors seem generous enough to spend some time to respond and offer their thoughts._
 
 #### Interview script
 * Wh
