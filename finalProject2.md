@@ -4,8 +4,7 @@
 
 ## User research
 ### Protocol
-My primary target audience is residents of Pittsburgh.  
-A few secondary audiences are policy/decision-makers in Pittsburgh and residents and policy/decision-makers at the county and state levels.
+My primary target audience is residents of Pittsburgh. A few secondary audiences are policy/decision-makers in Pittsburgh and residents and policy/decision-makers at the county and state levels.
 
 __Goal__ Question I need answered
 
