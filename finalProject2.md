@@ -4,7 +4,7 @@
 
 ## User research
 ### Protocol
-My primary target audience is residents of Pittsburgh. A few secondary audiences are policy/decision-makers in Pittsburgh and residents and policy/decision-makers at the county and state levels.
+My primary target audience is adult residents of Pittsburgh. This includes everyone, from 1-year Master's students to 7th generation Yinzers. A few secondary audiences are policy/decision-makers in Pittsburgh and residents and policy/decision-makers at the county and state levels.
 
 #### Goals & General questions that will help achieve those goals
 __Evaluate storyline__ Does my order of information (my story arc) make sense to readers?  
