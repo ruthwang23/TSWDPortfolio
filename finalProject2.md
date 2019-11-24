@@ -15,13 +15,15 @@ __Clear call to action__ Do readers walk away with a solid idea of what they sho
 __Easy-to-understand visualizations__ How long does it take readers to understand what is portrayed? What changes would help reduce cognitive burden on readers?
 
 #### Interview script
-> Thank you so much for helping me with this project!
-> Here is a visual outline for my project - please take a moment to go through it and then let me know what you see.
- > What stands out to you? What did you like/dislike?
- > How do you feel after reading through this visual outline?
- > Is there anything that is confusing?
- > Could you walk me through the story that was told in the outline without looking at it? This will help me understand if I am communicating things well.
-> More generally, is there anything you wish you had seen or hope I change?
+* Thank you so much for helping me with this project!
+* Here is a visual outline for my project - please take a moment to go through it and then let me know what you see.
+  * What stands out to you? What did you like/dislike?
+  * How do you feel after reading through this visual outline?
+  * Is there anything that is confusing?
+  * Could you walk me through the story that was told in the outline without looking at it?  
+  This will help me understand if I am communicating things well.
+* More generally, is there anything you wish you had seen or hope I change?
+* Thank you so much for your feedback and insights - they are very helpful for me to see how I can improve this project. Thank you again!
 
 ### Interviews
 __Interview 1__
