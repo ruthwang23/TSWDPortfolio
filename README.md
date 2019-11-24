@@ -21,7 +21,7 @@ I was drawn to this course because of the emphasis not on tools for creating dat
 
 Additionally, it’s been a while since I’ve had any training in color theory or design, so I’m excited to get my hands dirty with this stuff once again. Wherever I land in the future, I feel that being able to create visualizations that help inform and convince will be an important skill to have, and I'm excited to start off with a good foundation through TSWD.
 
-
+ 
 
 ### Portfolio
 #### [OECD Data Visualization](/OECDviz.md)
