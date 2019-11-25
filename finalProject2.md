@@ -48,13 +48,28 @@ Suggested edits:
 
 __Interview 3__
 
-__
+_Overall, liked the story. Wanted to know more about each of the resources I will be linking. Felt concerned about children and health outcomes for adults too._
 
 Suggested edits:
-* 
+* Build out resolution - What more can be done? How to keep ourselves safe? Describe resources more.
 
 ## Revised storyboard/wireframe
 __Key changes:__ 
+* Add in _slight_ detail for sections where I will discuss health implications and $$.
+* Use more vivid imagery.
+* Built basic structure in Shorthand, but could only create up to 25 sections - will figure this out.
+
+__Changes yet to be made:__
+* Write out all the text.
+* Create actual visualizations from data: % homes before 1978 infographic & # homes chart, lead emissions chart, # children testing high EBLLs, Pittsburgh neighborhoods of concern (and all the supplemental charts in "appendix")
+* Find information about already tested soil lead levels in Pittsburgh?
+* Flesh out resources and hopeful/positive ending.
+
+__Concern areas/further questions:__
+* How many visualizations are we supposed to create ourselves? How "complicated" should they be? Is my story too reliant on images rather than data viz?
+* I had conceived of this project as more informational, but since we need a call to action, I added a "sign the letter" part - is this necessary?
+* Is there a way around the 25 section limit in Shorthand? Do I need to be doing actual html coding to get around that?
+
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/soil-lead-wireframe/"><h1>DIRTY LEAD</h1><p>Lead in Pittsburgh soil poses a dangerous threat to
 children, pregnant women, all</p></div>
