@@ -53,6 +53,8 @@ __
 Suggested edits:
 * 
 
-## Revised storyboard & wireframes
+## Revised storyboard/wireframe
 __Key changes:__ 
-
+<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/soil-lead-wireframe/"><h1>DIRTY LEAD</h1><p>Lead in Pittsburgh soil poses a dangerous threat to
+children, pregnant women, all</p></div>
