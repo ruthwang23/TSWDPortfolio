@@ -42,6 +42,7 @@ __Interview 2__
 _Overall, got the story and order of information but felt that it was a bit melodramatic. Wanted more concrete data and proof that the city/county should put resources toward addressing lead in soil._
 
 Suggested edits:
+* Include information about lead levels in soil in Pittsburgh (if available)
 * Add $ cost of not addressing the issue (children's health care, local economic burden, etc.) vs. $ cost of addressing it (possible program costs)
 * Be a bit more pragmatic and not just use pathos appeals
 
