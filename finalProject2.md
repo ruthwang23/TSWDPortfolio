@@ -30,7 +30,7 @@ __Easy-to-understand visualizations__ How long does it take readers to understan
 ### Interview findings
 __Interview 1__
 
-_Overall, liked the story - thought it had good flow that made sense. Got the main message that Pittsburgh children are at high risk for lead exposure through soil. Didn't seem to really digest call to action/resources to access - simply came away from the story feeling concerned._
+_Overall, liked the story - thought it had good flow that made sense. Got the main message that Pittsburgh children are at high risk for lead exposure through soil because of various historical factors. Didn't seem to really digest call to action/resources to access - simply came away from the story feeling concerned._
 
 Suggested edits:
 * Make wording on visuals more clear, e.g. OF Pittsburgh homes WERE built before 1978
