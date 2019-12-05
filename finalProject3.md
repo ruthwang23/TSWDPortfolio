@@ -5,7 +5,15 @@
 ### Final data story
 _The Shorthand story I created with full interactive Tableau visualizations can be found [here](https://carnegiemellon.shorthandstories.com/rgwang/index.html). It is also embedded at the end of this page._
 
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
+#### On audience
+The primary intended audience for my final data story is adult residents of Pittsburgh. Additionally, I would want this story to be shared with Pittsburgh/Allegheny County elected officials and decision-makers, perhaps even with those in power at the state level.
+
+I have intentionally included vivid imagery that involves Pittsburgh for a base level pathos appeal.
+
+Other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
+
+#### On design
+##### Color choices
 
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.
 
