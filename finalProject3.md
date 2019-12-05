@@ -3,8 +3,7 @@
 ### [Part II - Wireframes & User Research](/finalProject2.rmd)
 
 ### Final data story
-_The Shorthand story I created with full interactive Tableau visualizations can be found [here](https://carnegiemellon.shorthandstories.com/rgwang/index.html)._  
-_It is also embedded at the end of this page._
+_The Shorthand story I created with full interactive Tableau visualizations can be found [here](https://carnegiemellon.shorthandstories.com/rgwang/index.html). It is also embedded at the end of this page._
 
 A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
 
