@@ -1,6 +1,6 @@
 # Final Project Part III - Final Deliverable
-### [Part I](/finalProject1.rmd)
-### [Part II](/finalProject2.rmd)
+### [Part I - Project Proposal](/finalProject1.rmd)
+### [Part II - Wireframes & User Research](/finalProject2.rmd)
 
 ### Final data story
 _The Shorthand story I created with full interactive Tableau visualizations can be found [here](https://carnegiemellon.shorthandstories.com/rgwang/index.html)._  
