@@ -5,7 +5,7 @@
    * [Data Visualization Effectiveness Profile](/TSWDPortfolio/critique2.html#stephen-fews-data-visualization-effectiveness-profile)
    * [Wireframing](/TSWDPortfolio/critique2.html#wireframing)
    * [Verbal redesign](/TSWDPortfolio/critique2.html#redesigning)
-   * [Actual redesign](/TSWDPortfolio/critique2.html#make-up-redesigning)
+   * [Actual redesign](/TSWDPortfolio/critique2.html#make-up-redesign)
 
 ## The original visualization
 For this assignment, I decided to critique Figure 1 from  
