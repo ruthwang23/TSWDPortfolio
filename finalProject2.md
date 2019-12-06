@@ -1,7 +1,7 @@
 # Final Project Part II - Wireframes & User Research
 
-### [Part I - Project Proposal](/finalProject1.rmd)
-### [Part III - Final Deliverable](/finalProject3.rmd)
+### [Part I - Project Proposal](/TSWDPortfolio/finalProject1.html)
+### [Part III - Final Deliverable](/TSWDPortfolio/finalProject3.html)
 ### Page navigation
 * [Initial wireframe](/TSWDPortfolio/finalProject2.html#starting-storyboardwireframe)
 * [User research](/TSWDPortfolio/finalProject2.html#user-research)
