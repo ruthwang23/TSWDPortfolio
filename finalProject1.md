@@ -1,6 +1,12 @@
 # Final Project Part I - Project Proposal
 ### [Part II - Wireframes & User Research](/finalProject2.rmd)
 ### [Part III - Final Deliverable](/finalProject3.rmd)
+### Page navigation
+* [Outline](/TSWDPortfolio/finalProject1.html#outline)
+* [Initial sketches](/TSWDPortfolio/finalProject1.html#initial-sketches)
+* [The data](/TSWDPortfolio/finalProject1.html#the-data)
+* [Method and medium](/TSWDPortfolio/finalProject1.html#method-and-medium)
+
 ## Outline
 For my final project, I would like to expand upon a story that I have been writing reports about for other classes - lead in soil, particularly in Allegheny County/Pittsburgh. The central story revolves around this:
 
@@ -59,3 +65,7 @@ To complete my final project, I will go through the following process:
 3. Generate my actual visualizations and get some more feedback
 4. Create my Shorthand story, embedding my visualizations
 5. Get feedback on my story and refine
+
+[Top](/TSWDPortfolio/OECDviz.html)
+
+[Home](/TSWDPortfolio)
