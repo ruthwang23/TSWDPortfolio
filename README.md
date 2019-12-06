@@ -1,19 +1,6 @@
 # Telling Stories with Data Portfolio
 ### Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
-#### Page nav
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
-<details>
-<summary>Click to expand</summary>
-- [Ruth Wang](/TSWDPortfolio#ruth-wang)
-  * [About Me](/TSWDPortfolio#about-me)
-  * [What I Hope to Learn](/TSWDPortfolio#what-i-hope-to-learn)
-- [Portfolio](/TSWDPortfolio#portfolio)
-  * [Final Project](/TSWDPortfolio#final-project)
-  * [OECD Data Visualization](/TSWDPortfolio#oecd-data-visualization)
-  * [Critique by Redesign](/TSWDPortfolio#critique-by-redesign)
-  * [Some quick in-class exercises](/TSWDPortfolio#some-quick-in-class-exercises)
-  </details>
-<!-- AUTO-GENERATED-CONTENT:END -->
+#### Click [here](/TSWDPortfolio#portfolio) to jump down to the actual portfolio part of this page.
   
 ## Ruth Wang  
 <!-- <img src="/MVIMG_20191020_181937.png" width="250" height="337"> -->
