@@ -4,7 +4,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
 <details>
 <summary>Click to expand</summary>
- 
 - [Ruth Wang](#ruth-wang)
   * [About Me](#about-me)
   * [What I Hope to Learn](#what-i-hope-to-learn)
