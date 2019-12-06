@@ -29,6 +29,7 @@ Additionally, it’s been a while since I’ve had any training in color theory 
 * __[Final Deliverable](/TSWDPortfolio/finalProject3.html)__
 * __[Wireframes & User Research](/finalProject2.md)__
 * __[Project Proposal](/finalProject1.md)__
+
 ### [OECD Data Visualization](/OECDviz.md)
 ### [Critique by Redesign](/critique2.md)
  
