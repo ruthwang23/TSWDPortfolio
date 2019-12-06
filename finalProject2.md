@@ -1,6 +1,6 @@
 # Final Project Part II - Wireframes & User Research
 
-### [Part II - Wireframes & User Research](/finalProject2.rmd)
+### [Part I - Project Proposal](/finalProject1.rmd)
 ### [Part III - Final Deliverable](/finalProject3.rmd)
 
 ## Starting storyboard/wireframe
