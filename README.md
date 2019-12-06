@@ -4,14 +4,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
 <details>
 <summary>Click to expand</summary>
-- [Ruth Wang](#ruth-wang)
-  * [About Me](#about-me)
-  * [What I Hope to Learn](#what-i-hope-to-learn)
-- [Portfolio](#portfolio)
-  * [Final Project](#final-project)
-  * [OECD Data Visualization](#oecd-data-visualization)
-  * [Critique by Redesign](#critique-by-redesign)
-  * [Some quick in-class exercises](#some-quick-in-class-exercises)
+- [Ruth Wang](/TSWDPortfolio#ruth-wang)
+  * [About Me](/TSWDPortfolio#about-me)
+  * [What I Hope to Learn](/TSWDPortfolio#what-i-hope-to-learn)
+- [Portfolio](/TSWDPortfolio#portfolio)
+  * [Final Project](/TSWDPortfolio#final-project)
+  * [OECD Data Visualization](/TSWDPortfolio#oecd-data-visualization)
+  * [Critique by Redesign](/TSWDPortfolio#critique-by-redesign)
+  * [Some quick in-class exercises](/TSWDPortfolio#some-quick-in-class-exercises)
   </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
   
