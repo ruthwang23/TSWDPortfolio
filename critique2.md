@@ -1,17 +1,4 @@
 # Critique by Redesign
-#### Page nav
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
-<details>
-<summary>Click to expand</summary>
-- [The original visualization](#the-original-visualization)
-- [The critique process](#the-critique-process)
-- [Portfolio](#portfolio)
-  * [Final Project](#final-project)
-  * [OECD Data Visualization](#oecd-data-visualization)
-  * [Critique by Redesign](#critique-by-redesign)
-  * [Some quick in-class exercises](#some-quick-in-class-exercises)
-  </details>
-<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## The original visualization
 For this assignment, I decided to critique Figure 1 from  
@@ -56,5 +43,6 @@ To choose my color scale, I used coolors to both select my colors and check whet
 ##### Elections Included in this Paper
 ![redesigned viz](/dash2.png)
 
-[Top](/TSWDPortfolio/critique2.md)
+[Top](/TSWDPortfolio/critique2.html)
+
 [Home](/TSWDPortfolio)
