@@ -1,4 +1,12 @@
 # OECD Data Visualization
+### Page navigation
+* [The original visualization](/TSWDPortfolio/OECDviz.html#the-original-visualization)
+* [Alternative visualizations](/TSWDPortfolio/OECDviz.html#alternative-visualizations-of-the-data-government-debt-as-a-percentage-of-gdp)
+   * [Beeswarm](/TSWDPortfolio/OECDviz.html#beeswarm-visualization)
+   * [Area graph](/TSWDPortfolio/OECDviz.html#area-graph-visualization)
+   * [Focused area graph](/TSWDPortfolio/OECDviz.html#focused-area-graph-visualization-countries-that-have-had-more-debt-than-they-could-cover-with-gdp)
+* [Reflection](/TSWDPortfolio/OECDviz.html#reflection)
+* [Citations](/TSWDPortfolio/OECDviz.html#citations)
 
 ## The original visualization
 <iframe src="https://data.oecd.org/chart/5Jue" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Jue" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
