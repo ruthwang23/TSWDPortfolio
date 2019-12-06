@@ -1,5 +1,6 @@
 # Telling Stories with Data Portfolio
-### Welcome to my portfolio! [🐙😸](/octocatHaiku.md) Click [here](/TSWDPortfolio/#portfolio) to skip down to the _portfolio_ part of this page.
+### Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
+#### Click [here](/TSWDPortfolio/#portfolio) to skip down to the actual portfolio part of this page.
 
 ## Ruth Wang  
 <!-- <img src="/MVIMG_20191020_181937.png" width="250" height="337"> -->
