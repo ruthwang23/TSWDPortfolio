@@ -2,6 +2,12 @@
 
 ### [Part I - Project Proposal](/finalProject1.rmd)
 ### [Part III - Final Deliverable](/finalProject3.rmd)
+### Page navigation
+* [Initial wireframe](/TSWDPortfolio/finalProject2.html#starting-storyboardwireframe)
+* [User research](/TSWDPortfolio/finalProject2.html#user-research)
+   * [Protocol](/TSWDPortfolio/finalProject2.html#protocol)
+   * [Interviews](/TSWDPortfolio/finalProject2.html#interview-findings)
+* [Revised wireframe](/TSWDPortfolio/finalProject2.html#revised-storyboardwireframe)
 
 ## Starting storyboard/wireframe
 <script src="https://embed.shorthand.com/embed_6.js"></script>
@@ -76,3 +82,7 @@ __Concern areas/further questions:__
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/soil-lead-wireframe/"><h1>DIRTY LEAD</h1><p>Lead in Pittsburgh soil poses a dangerous threat to
 children, pregnant women, all</p></div>
+
+[Top](/TSWDPortfolio/OECDviz.html)
+
+[Home](/TSWDPortfolio)
