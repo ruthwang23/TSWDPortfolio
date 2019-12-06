@@ -3,7 +3,7 @@ Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
 
 ## Ruth Wang  
 <!-- <img src="/MVIMG_20191020_181937.png" width="250" height="337"> -->
-![Photo of Ruth](/MVIMG_20191020_181937.png)
+![Photo of Ruth](/smolruth.png)
 ##### (Apologies for the super large image. Will figure out how to resize soon! If anyone's curious, the juicy buns are from [Dumpling Cafe](https://www.dumplingcafe.com/) in Downtown Boston.)
 
 
