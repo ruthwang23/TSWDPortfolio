@@ -1,4 +1,11 @@
 # Critique by Redesign
+#### Page navigation
+* [The original visualization](/TSWDPortfolio/critique2.html#the-original-visualization)
+* [The critique process](/TSWDPortfolio/critique2.html#the-critique-process)
+   * [Data Visualization Effectiveness Profile](/TSWDPortfolio/critique2.html#stephen-fews-data-visualization-effectiveness-profile)
+   * [Wireframing](/TSWDPortfolio/critique2.html#wireframing)
+   * [Verbal redesign](/TSWDPortfolio/critique2.html#redesigning)
+   * [Actual redesign](/TSWDPortfolio/critique2.html#make-up-redesigning)
 
 ## The original visualization
 For this assignment, I decided to critique Figure 1 from  
