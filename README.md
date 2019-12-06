@@ -1,5 +1,5 @@
 # Telling Stories with Data Portfolio
-Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
+### Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
 
 ## Ruth Wang  
 <!-- <img src="/MVIMG_20191020_181937.png" width="250" height="337"> -->
@@ -30,7 +30,7 @@ Additionally, it’s been a while since I’ve had any training in color theory 
 ### [Final Project Wireframes & User Research](/finalProject2.md)
 ### [Final Project Final Deliverable](/TSWDPortfolio/finalProject3.html)
  
-Some quick in-class exercises:
+### Some quick in-class exercises:
 
 <iframe title="Left-Click" aria-label="Bar Chart" id="datawrapper-chart-wRt0Q" src="//datawrapper.dwcdn.net/wRt0Q/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="351"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
