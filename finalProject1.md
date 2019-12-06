@@ -1,4 +1,6 @@
 # Final Project Part I - Project Proposal
+### [Part II - Wireframes & User Research](/finalProject2.rmd)
+### [Part III - Final Deliverable](/finalProject3.rmd)
 ## Outline
 For my final project, I would like to expand upon a story that I have been writing reports about for other classes - lead in soil, particularly in Allegheny County/Pittsburgh. The central story revolves around this:
 
