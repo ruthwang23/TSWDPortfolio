@@ -1,12 +1,10 @@
 # Telling Stories with Data Portfolio
 Welcome to my portfolio! [🐙😸](/octocatHaiku.md)
 
-[TEST](/test.html)
-
-### Ruth Wang  
+## Ruth Wang  
 <!-- <img src="/MVIMG_20191020_181937.png" width="250" height="337"> -->
 ![Photo of Ruth](/MVIMG_20191020_181937.png)
-###### (Apologies for the super large image. Will figure out how to resize soon! If anyone's curious, the juicy buns are from [Dumpling Cafe](https://www.dumplingcafe.com/) in Downtown Boston.)
+##### (Apologies for the super large image. Will figure out how to resize soon! If anyone's curious, the juicy buns are from [Dumpling Cafe](https://www.dumplingcafe.com/) in Downtown Boston.)
 
 
 ### About Me
@@ -25,12 +23,12 @@ Additionally, it’s been a while since I’ve had any training in color theory 
 
  
 
-### Portfolio
-#### [OECD Data Visualization](/OECDviz.md)
-#### [Critique by Redesign](/critique2.md)
-#### [Final Project Proposal](/finalProject1.md)
-#### [Final Project Wireframes & User Research](/finalProject2.md)
-#### [Final Project Final Deliverable](/TSWDPortfolio/finalProject3.html)
+## Portfolio
+### [OECD Data Visualization](/OECDviz.md)
+### [Critique by Redesign](/critique2.md)
+### [Final Project Proposal](/finalProject1.md)
+### [Final Project Wireframes & User Research](/finalProject2.md)
+### [Final Project Final Deliverable](/TSWDPortfolio/finalProject3.html)
  
 Links to my portfolio contents (our classwork) will be added to this section as we go.
 A preview of what I might share:
